@@ -1,6 +1,6 @@
 # Be The Hero
 
-'Be The Hero' project develped during the OmniStach Week 11.
+'Be The Hero' project developed during the OmniStach Week 11.
 
 ## Getting Started
 
@@ -72,7 +72,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Leonardo Sampaio Cairo** - *Other Projects* - [Profile](https://github.com/leocairos)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
