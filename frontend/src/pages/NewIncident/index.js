@@ -66,9 +66,10 @@ function NewIncident() {
                         placeholder='Valor en reais'
                         value={value}
                         onChange={e => setValue(e.target.value)} />
-
-                    <button className='b' type='abort'>Cancelar</button>
-                    <button className='button' type='submit'>Cadastrar</button>
+                    <div className="button-group">
+                        <button className='button-reset' type='reset'>Cancelar</button>
+                        <button className='button' type='submit'>Cadastrar</button>
+                    </div>
                 </form>
             </div>
         </div>
