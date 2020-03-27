@@ -11,7 +11,10 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them
 
 ```
-Give examples
+*Visual Studio Code*
+*Node JS* for Backend
+*React JS* for WEB Frontend
+*Expo* for Mobile Frontend
 ```
 
 ### Installing
@@ -55,6 +58,10 @@ Give an example
 ## Deployment
 
 Add additional notes about how to deploy this on a live system
+
+```
+
+```
 
 ## Built With
 
