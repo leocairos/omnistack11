@@ -12,7 +12,9 @@ What things you need to install the software and how to install them
 
 ```
 Visual Studio Code
+Figma (https://www.figma.com/)
 Node JS for Backend
+    -> npx jest --init
 React JS for WEB Frontend
 Expo for Mobile Frontend
     -> npm i -g expo-cli
@@ -22,6 +24,14 @@ Expo for Mobile Frontend
     -> Install Expo App into smartphone
     -> Run app into Smartphone, by USB or qrcode capture
 ```
+### To deploy suggested
+
+**NodeJS**
+    -> https://www.heroku.com/
+    -> https://www.digitalocean.com/
+
+**ReactJS**
+    -> https://www.netlify.com/
 
 ## Author
 
