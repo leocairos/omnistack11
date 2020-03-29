@@ -17,7 +17,10 @@ React JS for WEB Frontend
 Expo for Mobile Frontend
     -> npm i -g expo-cli
     -> expo -h (for instalation validate)
-    
+    -> expo init mobile (for initilize our project. mobile is the project name)
+    -> cd mobile && yarn start (acess project and run)
+    -> Install Expo App into smartphone
+    -> Run app into Smartphone, by USB or qrcode capture
 ```
 
 ### Installing
